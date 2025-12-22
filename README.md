@@ -12,15 +12,3 @@ I design and build scalable, high-performance web applications with a strong foc
 Experienced across the full stack — from polished, accessible user interfaces to reliable, production-ready backend systems and infrastructure.
 
 🌐 **@skids.wiki**
-
----
-
-### Ultra-clean, high-SEO compact version (great for GitHub header)
-
-Frontend & Backend Developer • Full-Stack Engineer
-JavaScript, TypeScript, Node.js, Python, Go
-Docker • Linux • CI/CD • Cloud Deployments
-
-Building scalable, secure, full-stack web applications.
-
-🌐 **@skids.wiki**
