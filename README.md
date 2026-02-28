@@ -1,4 +1,5 @@
 **Frontend & Backend Developer | Full-Stack Engineer** 
+
 I design and build scalable, high-performance web applications with a strong focus on clean architecture, maintainability, and user experience.
 
 **Tech Stack & Expertise**
