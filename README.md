@@ -12,4 +12,4 @@ I design and build scalable, high-performance web applications with a strong foc
 
 🌐 **@skids.wiki**
 
-<img src="https://media.discordapp.net/attachments/1384984237471568113/1477532567036231701/Crystaliline_Banner_Tango.png?ex=69a51aef&is=69a3c96f&hm=7dec11bec105bc88db08f62f65f83f4b6fc00cc6862da412f48e9c86881c2bd9&animated=true&width=2066&height=1162" alt="ilf">
+<img src="https://cdn.discordapp.com/attachments/1384984237471568113/1477532469170274457/2441367-2998472560.png?ex=69a51ad7&is=69a3c957&hm=9a84e1d49276ad08fd0cd2d9b7e28aa109752cfb91f23f3e81a39d7daa8d2940&animated=true" alt="ilf">
